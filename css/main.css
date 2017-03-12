@@ -1,0 +1,41 @@
+/*create by rain 2017.3.3*/
+
+* {
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#canvas1 {
+	width: 400px;
+	height: 400px;
+	border: 1px solid #aaa;
+	margin: 100px 50px;
+}
+
+#canvas2 {
+	width: 50px;
+	height: 400px;
+	border: 1px solid #aaa;
+	margin: 100px 0;
+}
+
+li {
+	list-style: none;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.wrap {
+	position: absolute;
+	top: 100px;
+	left: 600px;
+}
+
+input {
+	width: 100px;
+	height: 30px;
+	margin-left: 10px;
+	padding: 5px;
+}
